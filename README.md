@@ -79,11 +79,15 @@ FDA-VAE核心创新是在潜在空间中的分布翻转操作。当图像被编�
 如果您使用了本代码，请引用我们的工作：
 
 ```
-@article{xxx2025fda,
-  title={FDA-VAE: Flipped Distribution Autoencoder for Cross-Modality Medical Image Translation},
-  author={QianMuXiao et al.},
-  journal={MICCAI},
-  year={2025}
+@inproceedings{kui2025fdavae,
+  title={Flip Distribution Alignment VAE for Multi-Phase MRI Synthesis},
+  author={Kui, Xiaoyan and Xiao, Qianmu and Li, Qinsong and Ji, Zexin and Zhang, Jielin and Zou, Beiji},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  year={2025},
+  publisher={Springer},
+  pages={},  % 页码将在出版后确定
+  doi={},    % DOI将在出版后确定
+  url={https://github.com/QianMuXiao/FDA-VAE}
 }
 ```
 
