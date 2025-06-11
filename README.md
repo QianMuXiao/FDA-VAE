@@ -30,6 +30,8 @@ pip install lpips
 
 ## 数据准备
 
+原始数据集链接：https://github.com/LMMMEng/LLD-MMRI-Dataset
+
 数据集应具有以下结构：
 
 ```
